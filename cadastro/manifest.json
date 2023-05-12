@@ -1,0 +1,401 @@
+{
+  "name": "formularioProfissional",
+  "short_name": "AjudaAki",
+  "icons": [
+    
+    {
+      "src": "assets/AppImages/android/android-launchericon-48-48.png",
+      "sizes": "48x48"
+    },
+    {
+      "src": "assets/AppImages/android/android-launchericon-72-72.png",
+      "sizes": "72x72"
+    },
+    {
+      "src": "assets/AppImages/android/android-launchericon-96-96.png",
+      "sizes": "96x96"
+    },
+    {
+      "src": "assets/AppImages/android/android-launchericon-144-144.png",
+      "sizes": "144x144"
+    },
+    {
+      "src": "assets/AppImages/android/android-launchericon-192-192.png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "assets/AppImages/android/android-launchericon-512-512.png",
+      "sizes": "512x512"
+    },
+    {
+      "src": "assets/AppImages/windows11/LargeTile.scale-100.png",
+      "sizes": "100x100"
+    },
+    {
+      "src": "assets/AppImages/windows11/LargeTile.scale-125.png",
+      "sizes": "125x125"
+    },
+    {
+      "src": "assets/AppImages/windows11/LargeTile.scale-150.png",
+      "sizes": "150x150"
+    },
+    {
+      "src": "assets/AppImages/windows11/LargeTile.scale-200.png",
+      "sizes": "200x200"
+    },
+    {
+      "src": "assets/AppImages/windows11/LargeTile.scale-400.png",
+      "sizes": "400x400"
+    },
+    {
+      "src": "assets/AppImages/windows11/SmallTile.scale-100.png",
+      "sizes": "100x100"
+    },
+    {
+      "src": "assets/AppImages/windows11/SmallTile.scale-125.png",
+      "sizes": "125x125"
+    },
+    {
+      "src": "assets/AppImages/windows11/SmallTile.scale-150.png",
+      "sizes": "150x150"
+    },
+    {
+      "src": "assets/AppImages/windows11/SmallTile.scale-200.png",
+      "sizes": "200x200"
+    },
+    {
+      "src": "assets/AppImages/windows11/SmallTile.scale-400.png",
+      "sizes": "400x400"
+    },
+    {
+      "src": "assets/AppImages/windows11/SplashScreen.scale-100.png",
+      "sizes": "100x100"
+    },
+    {
+      "src": "assets/AppImages/windows11/SplashScreen.scale-125.png",
+      "sizes": "125x125"
+    },
+    {
+      "src": "assets/AppImages/windows11/SplashScreen.scale-150.png",
+      "sizes": "150x150"
+    },
+    {
+      "src": "assets/AppImages/windows11/SplashScreen.scale-150.png",
+      "sizes": "150x150"
+    },
+    {
+      "src": "assets/AppImages/windows11/SplashScreen.scale-200.png",
+      "sizes": "200x200"
+    },
+    {
+      "src": "assets/AppImages/windows11/SplashScreen.scale-400.png",
+      "sizes": "400x400"
+    },
+    {
+      "src": "assets/AppImages/windows11/Square44x44Logo.altform-lightunplated_targetsize-16.png",
+      "sizes": "16x16"
+    },
+    {
+      "src": "assets/AppImages/windows11/Square44x44Logo.altform-lightunplated_targetsize-20.png",
+      "sizes": "20x20"
+    },
+    {
+      "src": "assets/AppImages/windows11/Square44x44Logo.altform-lightunplated_targetsize-24.png",
+      "sizes": "24x24"
+    },
+    {
+      "src": "assets/AppImages/windows11/Square44x44Logo.altform-lightunplated_targetsize-30.png",
+      "sizes": "30x30"
+    },
+    {
+      "src": "assets/AppImages/windows11/Square44x44Logo.altform-lightunplated_targetsize-32.png",
+      "sizes": "32x32"
+    },
+    {
+      "src": "assets/AppImages/windows11/Square44x44Logo.altform-lightunplated_targetsize-36.png",
+      "sizes": "36x36"
+    },
+    {
+      "src": "assets/AppImages/windows11/Square44x44Logo.altform-lightunplated_targetsize-40.png",
+      "sizes": "40x40"
+    },
+    {
+      "src": "assets/AppImages/windows11/Square44x44Logo.altform-lightunplated_targetsize-44.png",
+      "sizes": "44x44"
+    },
+    {
+      "src": "assets/AppImages/windows11/Square44x44Logo.altform-lightunplated_targetsize-48.png",
+      "sizes": "48x48"
+    },
+    {
+      "src": "assets/AppImages/windows11/Square44x44Logo.altform-lightunplated_targetsize-60.png",
+      "sizes": "60x60"
+    },
+    {
+      "src": "assets/AppImages/windows11/Square44x44Logo.altform-lightunplated_targetsize-64.png",
+      "sizes": "64x64"
+    },
+    {
+      "src": "assets/AppImages/windows11/Square44x44Logo.altform-lightunplated_targetsize-72.png",
+      "sizes": "72x72"
+    },
+    {
+      "src": "assets/AppImages/windows11/Square44x44Logo.altform-lightunplated_targetsize-80.png",
+      "sizes": "80x80"
+    },
+    {
+      "src": "assets/AppImages/windows11/Square44x44Logo.altform-lightunplated_targetsize-80.png",
+      "sizes": "80x80"
+    },
+    {
+      "src": "assets/AppImages/windows11/Square44x44Logo.altform-lightunplated_targetsize-96.png",
+      "sizes": "96x96"
+    },
+    {
+      "src": "assets/AppImages/windows11/Square44x44Logo.altform-lightunplated_targetsize-256.png",
+      "sizes": "256x256"
+    },
+    {
+      "src": "assets/AppImages/windows11/Square150x150Logo.scale-100.png",
+      "sizes": "100x100"
+    },
+    {
+      "src": "assets/AppImages/windows11/Square150x150Logo.scale-100.png",
+      "sizes": "100x100"
+    },
+    {
+      "src": "assets/AppImages/windows11/Square150x150Logo.scale-100.png",
+      "sizes": "100x100"
+    },
+    {
+      "src": "assets/AppImages/windows11/Square150x150Logo.scale-125.png",
+      "sizes": "125x125"
+    },
+    {
+      "src": "assets/AppImages/windows11/Square150x150Logo.scale-150.png",
+      "sizes": "150x150"
+    },
+    {
+      "src": "assets/AppImages/windows11/Square150x150Logo.scale-200.png",
+      "sizes": "200x200"
+    },
+    {
+      "src": "assets/AppImages/windows11/Square150x150Logo.scale-400.png",
+      "sizes": "400x400"
+    },
+    {
+      "src": "assets/AppImages/windows11/StoreLogo.scale-100.png",
+      "sizes": "100x100"
+    },
+    {
+      "src": "assets/AppImages/windows11/StoreLogo.scale-125.png",
+      "sizes": "125x125"
+    },
+    {
+      "src": "assets/AppImages/windows11/StoreLogo.scale-150.png",
+      "sizes": "150x150"
+    },
+    {
+      "src": "assets/AppImages/windows11/StoreLogo.scale-200.png",
+      "sizes": "200x200"
+    },
+    {
+      "src": "assets/AppImages/windows11/StoreLogo.scale-400.png",
+      "sizes": "400x400"
+    },
+    {
+      "src": "assets/AppImages/windows11/StoreLogo.scale-100.png",
+      "sizes": "100x100"
+    },
+    {
+      "src": "assets/AppImages/windows11/StoreLogo.scale-125.png",
+      "sizes": "125x125"
+    },
+    {
+      "src": "assets/AppImages/windows11/StoreLogo.scale-150.png",
+      "sizes": "150x150"
+    },
+    {
+      "src": "assets/AppImages/windows11/StoreLogo.scale-200.png",
+      "sizes": "200x200"
+    },
+    {
+      "src": "assets/AppImages/windows11/StoreLogo.scale-400.png",
+      "sizes": "400x400"
+    },
+    {
+      "src": "assets/AppImages/windows11/Wide310x150Logo.scale-100.png",
+      "sizes": "100x100"
+    },
+    {
+      "src": "assets/AppImages/windows11/Wide310x150Logo.scale-125.png",
+      "sizes": "125x125"
+    },
+    {
+      "src": "assets/AppImages/windows11/Wide310x150Logo.scale-150.png",
+      "sizes": "150x150"
+    },
+    {
+      "src": "assets/AppImages/windows11/Wide310x150Logo.scale-200.png",
+      "sizes": "200x200"
+    },
+    {
+      "src": "assets/AppImages/windows11/Wide310x150Logo.scale-400.png",
+      "sizes": "400x400"
+    },
+    {
+      "src": "assets/img/16.png",
+      "sizes": "16x16"
+    },
+    {
+      "src": "assets/img/20.png",
+      "sizes": "20x20"
+    },
+    {
+      "src": "assets/img/29.png",
+      "sizes": "29x29"
+    },
+    {
+      "src": "assets/img/32.png",
+      "sizes": "32x32"
+    },
+
+    {
+      "src": "assets/img/40.png",
+      "sizes": "40x40"
+    },
+
+    {
+      "src": "assets/img/48.png",
+      "sizes": "48x48"
+    },
+    
+    {
+      "src": "assets/img/50.png",
+      "sizes": "50x50"
+    },
+    {
+      "src": "assets/img/55.png",
+      "sizes": "55x55"
+    },
+    {
+      "src": "assets/img/57.png",
+      "sizes": "57x57"
+    },
+    {
+      "src": "assets/img/58.png",
+      "sizes": "58x58"
+    },
+    {
+      "src": "assets/img/60.png",
+      "sizes": "60x60"
+    },
+    {
+      "src": "assets/img/64.png",
+      "sizes": "64x64"
+    },
+    {
+      "src": "assets/img/66.png",
+      "sizes": "66x66"
+    },
+    {
+      "src": "assets/img/72.png",
+      "sizes": "72x72"
+    },
+    {
+      "src": "assets/img/76.png",
+      "sizes": "76x76"
+    },
+    {
+      "src": "assets/img/80.png",
+      "sizes": "80x80"
+    },
+    {
+      "src": "assets/img/87.png",
+      "sizes": "87x87"
+    },
+    {
+      "src": "assets/img/88.png",
+      "sizes": "88x88"
+    },
+    {
+      "src": "assets/img/92.png",
+      "sizes": "92x92"
+    },
+    {
+      "src": "assets/img/100.png",
+      "sizes": "100x100"
+    },
+    {
+      "src": "assets/img/102.png",
+      "sizes": "102x102"
+    },
+    {
+      "src": "assets/img/114.png",
+      "sizes": "114x114"
+    },
+    {
+      "src": "assets/img/120.png",
+      "sizes": "120x120"
+    },
+
+    {
+      "src": "assets/img/128.png",
+      "sizes": "128x128"
+    },
+  
+    {
+      "src": "assets/img/144.png",
+      "sizes": "144x144"
+    },
+
+    {
+      "src": "assets/img/152.png",
+      "sizes": "152x152"
+    },
+    {
+      "src": "assets/img/167.png",
+
+      "sizes": "167x167"
+    },
+    {
+      "src": "assets/img/172.png",
+      "sizes": "172x172"
+    },
+    {
+      "src": "assets/img/180.png",
+      "sizes": "180x180"
+
+    },
+    {
+      "src": "assets/img/196.png",
+      "sizes": "196x196",
+      "purpose": "any maskable"
+
+    },
+  
+    {
+      "src": "assets/img/216.png",
+      "sizes": "216x216"
+    },
+    {
+      "src": "assets/img/256.png",
+      "sizes": "256x256"
+    },
+    {
+      "src": "assets/img/512.png",
+      "sizes": "512x512"
+    },
+    {
+      "src": "ssets/img/1024.png",
+      "sizes": "1024x1024"
+    }
+    
+  
+  ],
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#6c7abe",
+  "theme_color": "#8ea9e8"
+ 
+}
